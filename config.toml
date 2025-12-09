@@ -1,4 +1,4 @@
-baseURL = "https://github.com/leduc121/aws_fcj/" 
+baseURL = "https://leduc121.github.io/aws_fcj/"
 
 relativeURLs = true
 canonifyURLs = true
