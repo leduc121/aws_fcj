@@ -8,7 +8,6 @@ pre: " <b> 3. </b> "
 
 
 
-Tại đây sẽ là phần liệt kê, giới thiệu các blogs mà các bạn đã dịch. Ví dụ:
 
 ###  [Blog 1 -Tái Tưởng Tượng Chăm Sóc Sức Khỏe Tâm Thần: Công Nghệ Là Chất Xúc Tác Cho Sự Thay Đổi](3.1-Blog1/)
 Bài blog khẳng định hệ thống chăm sóc sức khỏe tâm thần đang khủng hoảng vì thiếu hụt nghiêm trọng và bác sĩ kiệt sức vì giấy tờ. Công nghệ AWS (AI, cloud, generative AI) đang tạo bước ngoặt thực sự: giúp hàng triệu người tiếp cận dịch vụ nhanh hơn, giảm hàng giờ hành chính mỗi tuần cho bác sĩ, tự động ghi chú buổi trị liệu, phát hiện sớm nguy cơ, chuyển từ điều trị thụ động sang phòng ngừa chủ động, đồng thời vẫn giữ được sự kết nối con người – yếu tố cốt lõi của liệu pháp tâm lý.
