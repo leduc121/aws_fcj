@@ -175,3 +175,5 @@ It predicts storm trajectories using *real-time weather data* collected from ext
 | Storage & Data Transfer | $3.30 |
 
 ### ✅ *TOTAL: ≈ $22.95 / month*
+
+[Document](https://docs.google.com/document/d/1UNjqnkYfqD67wq76dyOq1YnkjWGnb3eSPsucPVyzihc/edit?usp=sharing)
