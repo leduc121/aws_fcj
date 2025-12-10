@@ -10,6 +10,10 @@ pre: " <b> 2. </b> "
 # ONLINE PLATFORM FOR TRACKING AND FORECASTING HURRICANE TRAJECTORY
 ## Geodesic-Aware Deep Learning for Hurricane Trajectory Prediction: A Physics-Informed and Augmentation-Driven Approach
 
+
+## Proposal document
+[Doc](https://docs.google.com/document/d/1UNjqnkYfqD67wq76dyOq1YnkjWGnb3eSPsucPVyzihc/edit?usp=sharing)
+
 ### 1. Executive Summary
 
 Time-series data serves as one of the most fundamental representations of information in modern scientific and industrial applications. It is essential for understanding dynamic processes such as economic trends, energy consumption patterns, and meteorological changes over time. In particular, weather forecasting heavily relies on time-series data to predict future atmospheric conditions, hurricane trajectories, and seasonal anomalies based on historical records.
@@ -407,4 +411,3 @@ The estimated monthly costs for running the hurricane prediction platform on AWS
 * Low monthly operational cost (< $20/month).
 
 
-[Document](https://docs.google.com/document/d/1UNjqnkYfqD67wq76dyOq1YnkjWGnb3eSPsucPVyzihc/edit?usp=sharing)

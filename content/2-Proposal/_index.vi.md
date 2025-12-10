@@ -8,6 +8,10 @@ pre: " <b> 2. </b> "
 
 # NỀN TẢNG TRỰC TUYẾN ĐỂ THEO DÕI VÀ DỰ BÁO QUỸ ĐẠO BÃO 
 
+
+## Proposal doc
+[Doc](https://docs.google.com/document/d/1UNjqnkYfqD67wq76dyOq1YnkjWGnb3eSPsucPVyzihc/edit?usp=sharing)
+
 ## Kỹ thuật tự nhận thức trắc địa (Geodesic-Aware Deep Learning) cho dự đoán hướng di chuyển chính xác: Một phương pháp tiếp cận dựa trên kêt hợp "mô phỏng vật lý" và "tăng cường dữ liệu"
 
 ### 1. Tóm tắt điều hành  
@@ -411,4 +415,3 @@ Chi phí ước tính hàng tháng để vận hành nền tảng dự đoán b�
 * Khung (framework) có thể tái sử dụng cho các tác vụ dự đoán không gian địa lý khác.
 * Chi phí vận hành hàng tháng thấp (< $20/tháng).
 
-[Doc](https://docs.google.com/document/d/1UNjqnkYfqD67wq76dyOq1YnkjWGnb3eSPsucPVyzihc/edit?usp=sharing)
