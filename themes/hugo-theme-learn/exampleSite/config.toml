@@ -8,6 +8,16 @@ themesdir = "../.."
 metaDataFormat = "yaml"
 defaultContentLanguageInSubdir= true
 
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+[params.math]
+enable = true
+engine = "mathjax"
+
 [params]
   editURL = "https://github.com/matcornic/hugo-theme-learn/edit/master/exampleSite/content/"
   description = "Documentation for Hugo Learn Theme"
